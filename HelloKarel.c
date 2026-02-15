@@ -15,4 +15,21 @@ void setup (void) {
 
 void run (void) {
     move();
+    move();
+    move();
+    move();
+    move();
+    turnLeft();
+    move();
+    move();
+    move();
+    turnLeft();
+    turnLeft();
+    turnLeft();
+    move();
+    move();
+    pickBeeper();
+    move();
+    move();
+    putBeeper();
 }
